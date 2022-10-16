@@ -38,7 +38,6 @@ This application can be used by anybody who wants a Playlist to match the curren
 
 ## Visuals
 
-![MockUp2](images/Weather-playlistscreenshot.png)
 ![MockUp](images/Weather-playlistfinalscreenshot.png)
 
 ## License
