@@ -60,7 +60,7 @@ No tests.
 
 ## Questions?
 
-Check the GitHub repository here: [GitHub](https://github.com/babaphillips/weather-playlist)
+Check the group GitHub repository here: [Group GitHub](https://github.com/JenniferByrnes/weather-playlist)
 
 Check the deployed application here : [Deployed Application](https://babaphillips.github.io/weather-playlist/)
 
